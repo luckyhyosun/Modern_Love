@@ -15,4 +15,8 @@ Yet, various factors, including behavioral addiction, obsession with online self
 - [ ] upload at least **4 descriptions** on Tinder
 - [ ] upload at least **3 interests** on Tinder
 
+![IMG_9706](https://github.com/user-attachments/assets/e5044d8c-73f2-4fd4-85e9-06ab41b0719d)
+![IMG_9707](https://github.com/user-attachments/assets/d550451b-8bb3-4353-9522-27f9dbdafa55)
+
+
 [^1]: Maslow's hierarchy (https://canadacollege.edu/dreamers/docs/Maslows-Hierarchy-of-Needs.pdf)
