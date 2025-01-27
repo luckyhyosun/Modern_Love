@@ -1,5 +1,7 @@
 # 💝 How did we fall in love via a Machine 🤖
 
+(https://kabk.github.io/go-theses-24-hyosun-kim/)
+
 According to Maslow, love and belongingness are one of the innate needs of human beings.[^1]
 Thus, human connection has played a significant role throughout human life in various contexts, such as building physical connections with face-to-face conversations or hugs.
 
