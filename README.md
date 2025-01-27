@@ -15,7 +15,7 @@ Yet, various factors, including behavioral addiction, obsession with online self
 - [ ] upload at least **4 descriptions** on Tinder
 - [ ] upload at least **3 interests** on Tinder
 
-<img width="300" alt="Image" src="https://github.com/user-attachments/assets/2863d832-0885-4449-9f00-867699c29dd4" />
+<img width="300" alt="Image" src="https://github.com/user-attachments/assets/eeacfc6b-13eb-4aca-8f32-63a4942affee" />
 <img width="300" alt="Image" src="https://github.com/user-attachments/assets/873814c0-7a8a-4df0-a458-372f0b2cf26f" />
 
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/01e8572b-946a-4fe1-a11b-9593a69702d1" />
